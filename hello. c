@@ -1,6 +1,6 @@
 #include<stdio.h>
-void.main()
+void main() //We can't use the 'dot' in between void and main
 {
 printf("Hello World...!!!");
-printf("/n This is the basic C program");
+printf("/n This is the basic C program"); //Don't leave space in-between /n and the code as it will compile as it is
 }
